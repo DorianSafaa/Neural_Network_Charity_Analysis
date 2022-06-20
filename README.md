@@ -40,4 +40,4 @@ In the first neural network model, we used the relu activation function in two h
 
 ## Summary:
 
-
+The deep learning model used in this analysis helped us achieve 72% of accuracy in classifying the organizations that have received funding from Alphabet Soup over the years as successful or not and if they used the funded money effectively. The lack of better accuracy after parameter tuning and feature transformation suggests we should add more relevant features that help classify these organizations more accurately. Additionally, we can try different machine learning models, particularly those that return the significance of the features in predicting the classes.  
