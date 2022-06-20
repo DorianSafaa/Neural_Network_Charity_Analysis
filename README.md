@@ -33,3 +33,11 @@ o	Data Preprocessing
 
 We started by eliminating the columns that are unique for each organization such as name and id. Next, we specified our variable of interest is_successful which indicates if the organization used the money funded from Alphabet Soup effectively. All the other features were included in the model.  
 All the categorical features were encoded using one-hot encoding technique. After splitting the data into train and test sets, the features were scaled before fitting the neural network model. 
+
+o	Compiling, Training, and Evaluating the Model
+
+In the first neural network model, we used the relu activation function in two hidden layers with 80 and 30 neurons, respectively. The model was compiled and fitted to the train set. We achieved 72% accuracy after evaluating the test set. In an attempt to improve the model performance, we removed extra columns and changed the threshold in the bucketing technique, but the accuracy did not improve significantly. As a final step, we used an optimization function to determine the best activation function, number of neurons, and hidden layers. As with the other models, the result was similar. 
+
+## Summary:
+
+
