@@ -2,7 +2,7 @@
 
 ## Overview of the loan prediction risk analysis:
 
-In this analysis, we are trying to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.we used neural network and deep learning to 
+In this analysis, we are trying to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. We used neural network and deep learning to 
 With machine learning and neural networks, we used the features in our dataset to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. The CSV contains more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as the following:
 
 •	EIN and NAME—Identification columns
